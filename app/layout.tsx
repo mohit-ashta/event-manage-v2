@@ -7,7 +7,6 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "EventHub - Discover Amazing Events",
   description: "Find and book the perfect events for you",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
